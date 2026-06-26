@@ -90,14 +90,10 @@ git clone https://github.com/souravvrc/healthcare-mgmt-dashboard.git
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
 
-Example:
-
-```
 <img width="1037" height="632" alt="image" src="https://github.com/user-attachments/assets/00ebc79f-ed8f-4b56-b880-319066133a44" />
 
-```
+
 
 ---
 
